@@ -1,0 +1,8 @@
+.loginBody {
+  height: 100vh;
+  width: 100vw;
+  background-color: #0a80cf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
